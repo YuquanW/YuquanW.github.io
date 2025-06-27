@@ -11,12 +11,12 @@ Hello! I'm Yuquan, a former Ph.D. student in the Department of Biostatistics at 
 
 Outside of research, I enjoy table tennis, music, anime, and eSports.
 
-“何を間違った？
+“何を間違った、それさえも
 
-それさえもわからないんだ　ローリングローリング
+わからないんだ、ローリングローリング
 
 初めから持ってないのに胸が痛んだ”
 
-<p align="right">--- My favorite lyrics from Asian Kung-Fu Generation</p>
+<p align="right"> —— My favorite lyrics from Asian Kung-Fu Generation</p>
 
 
